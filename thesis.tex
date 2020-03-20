@@ -1,0 +1,132 @@
+\documentclass[a4paper,zihao = -4]{ctexart}
+
+\usepackage{amsmath}                % AMS LaTeX宏包
+\usepackage[style=1]{mdframed}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+
+\usepackage{xeCJK}
+\newcommand{\zhongsong}{\CJKfontspec{STZhongsong}}	%华文中宋
+\usepackage{setspace}				%设置间距
+\usepackage{ulem}
+
+\usepackage{calc}	%包含textwidth,textheight
+\usepackage{geometry}               % 页边距调整
+\geometry{top=2.5cm,bottom=2cm,left=2.5cm,right=2cm}
+
+\usepackage{mathrsfs}                % 英文花体字 体
+\usepackage{bm}                      % 数学公式中的黑斜体
+\usepackage{bbding,manfnt}           % 一些图标，如 \dbend
+\usepackage{lettrine}                % 首字下沉，命令\lettrine
+\def\attention{\lettrine[lines=2,lraise=0,nindent=0em]{\large\textdbend\hspace{1mm}}{}}
+\usepackage{longtable}
+\usepackage[toc,page]{appendix}
+
+%====================公式按章编号==========================
+\numberwithin{equation}{section}
+\numberwithin{table}{section}
+\numberwithin{figure}{section}
+%================== 图形支持宏包 =========================
+\usepackage{subfigure}
+\usepackage{graphicx}                % 嵌入png图像
+\usepackage{color,xcolor}            % 支持彩色文本、底色、文本框等
+\usepackage{hyperref}                % 交叉引用
+\usepackage{caption}
+\captionsetup{figurewithin=section}
+%==================== 源码和流程图 =====================
+\usepackage{listings}                % 粘贴源代码
+\usepackage{tikz}                    
+\usepackage{tikz-3dplot}
+\usetikzlibrary{shapes,arrows,positioning}
+
+%================= 基本格式预置 ===========================
+\usepackage{fancyhdr}
+\setmainfont{Times New Roman}
+
+\ctexset{
+	section = {
+		format = \centering\bfseries\zihao{-2} \heiti,
+		name = {第, 章}
+	},
+	subsection = {
+		nameformat = \bfseries\zihao{3} \heiti
+	},
+	subsubsection = {
+		nameformat = \bfseries\zihao{4} \heiti
+	}
+}
+
+\begin{document}
+
+%===================  定理类环境定义 ===================
+\newtheorem{example}{例}              % 整体编号
+\newtheorem{algorithm}{算法}
+\newtheorem{theorem}{定理}            % 按 section 编号
+\newtheorem{definition}{定义}
+\newtheorem{axiom}{公理}
+\newtheorem{property}{性质}
+\newtheorem{proposition}{命题}
+\newtheorem{lemma}{引理}
+\newtheorem{corollary}{推论}
+\newtheorem{remark}{注解}
+\newtheorem{condition}{条件}
+\newtheorem{conclusion}{结论}
+\newtheorem{assumption}{假设}
+%==================重定义 ===================
+\renewcommand{\contentsname}{目 ~~ 录}     
+\renewcommand{\abstractname}{摘 ~~ 要} 
+\renewcommand{\refname}{参考文献}     
+\renewcommand{\indexname}{索引}
+\renewcommand{\figurename}{图}
+\renewcommand{\tablename}{表}
+\renewcommand{\appendixname}{附录}
+\renewcommand{\proofname}{证明}
+\renewcommand{\algorithm}{算法} 
+
+%============== 封面、声明授权和摘要 =================
+\pagestyle{plain}
+\input{body/cover}
+\pagenumbering{Roman}
+\include{body/abstract}
+
+\pagestyle{empty}
+\tableofcontents 
+\thispagestyle{empty}
+
+%============== 论文正文   =================
+\pagestyle{fancy}
+\fancyhf{} 
+\setlength{\headsep}{20pt}
+\setlength{\headheight}{0cm}
+\setlength{\textwidth}{\paperwidth - 4.5cm}
+\setlength{\textheight}{\paperheight - 6.08cm - \headsep - \footskip}
+\setlength\topmargin{0.17cm}
+\fancyhead[C]{\zihao{5}  \songti 武汉理工大学毕业设计（论文）\\}
+\fancyfoot[C]{\zihao{5} \thepage}
+\renewcommand{\headrulewidth}{0.65pt} 
+
+\newpage
+如你所见，本页为了解决这个第一行文字与页眉分割线重合问题，我们添加了一个空白页。
+\vspace*{\fill}
+\begin{center}   
+	{\color{red}\fontsize{50} 1此页记得删除}
+\end{center}
+\vspace*{\fill}
+\newpage
+
+\setlength{\lineskip}{20pt} %设置行间距
+\setlength{\parskip}{0.5\baselineskip - 10pt} %设置行间距
+
+\include{body/chapter1} 
+\include{body/chapter2}
+\include{body/chapter3}
+\include{body/chapter4}
+%============= 参考文献 =====================
+\bibliographystyle{gbt7714-2005}     %论文引用格式
+\addcontentsline{toc}{section}{参考文献}
+\bibliography{bibfile}
+\clearpage
+\include{body/appendices}
+%=============  致谢  ======================
+\include{body/acknowledge}
+\end{document}

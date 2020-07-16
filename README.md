@@ -14,7 +14,7 @@
 
 
 
-&emsp;&emsp;**注释:**在撰写论文和降重过程中，切记不要随意删除内容，将待考量内容放入注释中。
+&emsp;&emsp;**注释**：在撰写论文和降重过程中，切记不要随意删除内容，将待考量内容放入注释中。
 
 &emsp;&emsp;由于%也有注释效果，但考虑到内容等注释(eg.下面介绍时间序列特点)和正文待考量内容的区别，我分别选择用%和\begin{comment}、\end{comment}来区分彼此。
 
@@ -32,7 +32,7 @@
 
 
 
-&emsp;&emsp;**三线表:**论文中所有的表都要使用三线表，除了最基础的表，还可以根据需要绘制进阶表。此处提供一个Latex在线表格网站：[Tables Generator](https://www.tablesgenerator.com/)。
+&emsp;&emsp;**三线表**：论文中所有的表都要使用三线表，除了最基础的表，还可以根据需要绘制进阶表。此处提供一个Latex在线表格网站：[Tables Generator](https://www.tablesgenerator.com/)。
 
 ```latex
 \usepackage{booktabs}
@@ -52,7 +52,7 @@
 \end{table}
 ```
 
-![table1](README_figure\table1.png)
+![table1](README_figure/table1.png)
 
 ```latex
 \begin{table}[!htbp]
@@ -80,11 +80,11 @@
 \end{table}
 ```
 
-![table2](README_figure\table2.png)
+![table2](README_figure/table2.png)
 
 
 
-&emsp;&emsp;**图:**用以下三个命令将Latex中默认的(图1.1：第一张图)改为论文正确的(图1.1  第一张图)。即不使用冒号，改为两个半角空格。
+&emsp;&emsp;**图**：用以下三个命令将Latex中默认的(图1.1：第一张图)改为论文正确的(图1.1  第一张图)。即不使用冒号，改为两个半角空格。
 
 ```
 /usepackage{caption}
@@ -95,7 +95,7 @@
 
 
 
-&emsp;&emsp;**目录：**将目录中的字体按照要求进行更改。
+&emsp;&emsp;**目录**：将目录中的字体按照要求进行更改。
 
 ```
 %====================目录======================
@@ -108,9 +108,9 @@
 
 
 
-&emsp;&emsp;**文献:**由于通过Bib经过Latex生成的文献，格式非常混乱，本人也被老师一顿猛批。因此，本人放弃了自动生成文献，转而将整理好的文献放入Latex中。
+&emsp;&emsp;**文献**：由于通过Bib经过Latex生成的文献，格式非常混乱，本人也被老师一顿猛批。因此，本人放弃了自动生成文献，转而将整理好的文献放入Latex中。
 
-&emsp;&emsp;文献的具体要求详情见**《本科生毕业设计(论文)撰写规范和示例》->三、撰写要求->(19) 参考文献**。部分内容如下：
+&emsp;&emsp;文献的具体要求详情见《**本科生毕业设计(论文)撰写规范和示例**》->三、撰写要求->(19) 参考文献。部分内容如下：
 
 &emsp;&emsp;参考文献的著录应符合国家标准，参考文献的序号左顶格，并用数字加方括号表示，与正文中的引文标示一致，如[1]，[2]……。每一条参考文献著录均以“.”结束。多位作者，姓名写到第三位，余者写“，等”或“，et al.”。 
 
@@ -139,7 +139,7 @@
 
 &emsp;&emsp;参考文献需要仔细检查，推荐使用**百度学术**中的**引用**，复制GB/7714中内容，优点是只需要文献名称和浏览器。如果特殊文献没有，可以下载bib文件，自己依照撰写要求中的文献标准进行仿写，力求完全无误。
 
-![bibliography](README_figure\bibliography.png)
+![bibliography](README_figure/bibliography.png)
 
 
 

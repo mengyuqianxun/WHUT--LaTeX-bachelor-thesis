@@ -1,0 +1,221 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\url{#1}}
+
+\bibitem{zhongwen1}
+\bibauthor{刘颉羲\@, 陈松灿}\@.
+  \bibtitle{基于混合门单元的非平稳时间序列预测}\bibmark{[J]}\@.
+  \bibjournal{计算机研究与发展}\@, \bibyear{2019}\@,
+  \bibvolume{56}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{1642\thinspace{}\textnormal{--}\thinspace{}1651}\@.
+
+\bibitem{Guo-4}
+\bibauthor{{Guo} J\@, {Xie} Z\@, {Qin} Y, et~al}\@. \bibtitle{Short-Term
+  Abnormal Passenger Flow Prediction Based on the Fusion of SVR and
+  LSTM}\bibmark{[J/OL]}\@. \bibjournal{IEEE Access}\@, \bibyear{2019}\@,
+  \bibvolume{7}\thinspace{}\textnormal{:
+  }\bibpages{42946\thinspace{}\textnormal{--}\thinspace{}42955}\@.
+  \url{http://dx.doi.org/10.1109/ACCESS.2019.2907739}\@.
+
+\bibitem{1216141}
+\bibauthor{{Contreras} J\@, {Espinola} R\@, {Nogales} F~J, et~al}\@.
+  \bibtitle{ARIMA models to predict next-day electricity
+  prices}\bibmark{[J/OL]}\@. \bibjournal{IEEE Transactions on Power Systems}\@,
+  \bibyear{2003}\@, \bibvolume{18}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{1014\thinspace{}\textnormal{--}\thinspace{}1020}\@.
+  \url{http://dx.doi.org/10.1109/TPWRS.2002.804943}\@.
+
+\bibitem{Engle1982AutoregressiveCH}
+\bibauthor{ENGLE R~F}\@. \bibtitle{Autoregressive Conditional
+  Heteroscedasticity with Estimates of the Variance of United Kingdom
+  Inflation}\bibmark{[C]} //\thinspace{}\bibeditor{ANON}\@. \@.
+  \bibyear{1982}\@.
+
+\bibitem{Grachev2017ApplicationOT}
+\bibauthor{GRACHEV O~Y}\@. \bibtitle{Application of Time Series Models (ARIMA,
+  GARCH, and ARMA-GARCH) for Stock Market Forecasting}\bibmark{[C]}
+  //\thinspace{}\bibeditor{ANON}\@. \@. \bibyear{2017}\@.
+
+\bibitem{Wei}
+\bibauthor{WEI Y\@, CHEN M-C}\@. \bibtitle{Chen, M.C.: Forecasting the
+  short-term metro passenger flow with empirical mode decomposition and neural
+  networks. Transportation Research Part C: Emerging Technologies 21(1),
+  148-162}\bibmark{[J]}\@, \bibyear{2012}\@.
+
+\bibitem{LiuZhi}
+\bibauthor{LIU Z\@, WANG Z\@, WANG C}\@. \bibtitle{Predicting Reservoir
+  Production Based on Wavelet Analysis-Neural Network}\bibmark{[C]}
+  //\thinspace{}\bibeditor{JIN D\@, LIN S}\@. \bibbooktitle{Advances in
+  Computer Science and Information Engineering}\@. \bibaddress{Berlin,
+  Heidelberg}\thinspace{}\textnormal{: }\bibpublisher{Springer Berlin
+  Heidelberg}\@, \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{535\thinspace{}\textnormal{--}\thinspace{}539}\@.
+
+\bibitem{doi:10.1162/neco.1997.9.8.1735}
+\bibauthor{HOCHREITER S\@, SCHMIDHUBER J}\@. \bibtitle{Long Short-Term
+  Memory}\bibmark{[J]}\@. \bibjournal{Neural Computation}\@, \bibyear{1997}\@,
+  \bibvolume{9}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{1735\thinspace{}\textnormal{--}\thinspace{}1780}\@.
+
+\bibitem{Wang-11}
+\bibauthor{WANG Z\@, OATES T}\@. \bibtitle{Imaging Time-Series to Improve
+  Classification and Imputation}\bibmark{[J]}\@, \bibyear{2015}\@.
+
+\bibitem{Zhi-10}
+\bibauthor{CUI Z\@, CHEN W\@, CHEN Y}\@. \bibtitle{Multi-Scale Convolutional
+  Neural Networks for Time Series Classification}\bibmark{[J]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2016}\@, \bibvolume{abs/1603.06995}\@.
+
+\bibitem{Koutn-9}
+\bibauthor{KOUTN\'{I}K J\@, GREFF K\@, GOMEZ F, et~al}\@. \bibtitle{A Clockwork
+  RNN}\bibmark{[C]} //\thinspace{}\bibeditor{ANON}\@.
+  \bibbooktitle{ICML’14\thinspace{}\textnormal{: }Proceedings of the 31st
+  International Conference on International Conference on Machine Learning -
+  Volume 32}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{JMLR.org}\@, \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{II–1863–II–1871}\@.
+
+\bibitem{7508408}
+\bibauthor{{Greff} K\@, {Srivastava} R~K\@, {Koutník} J, et~al}\@.
+  \bibtitle{LSTM: A Search Space Odyssey}\bibmark{[J/OL]}\@. \bibjournal{IEEE
+  Transactions on Neural Networks and Learning Systems}\@, \bibyear{2017}\@,
+  \bibvolume{28}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{2222\thinspace{}\textnormal{--}\thinspace{}2232}\@.
+  \url{http://dx.doi.org/10.1109/TNNLS.2016.2582924}\@.
+
+\bibitem{10.5555/2969033.2969073}
+\bibauthor{MNIH V\@, HEESS N\@, GRAVES A, et~al}\@. \bibtitle{Recurrent Models
+  of Visual Attention}\bibmark{[C]} //\thinspace{}\bibeditor{ANON}\@.
+  \bibbooktitle{NIPS’14\thinspace{}\textnormal{: }Proceedings of the 27th
+  International Conference on Neural Information Processing Systems - Volume
+  2}\@. \bibaddress{Cambridge, MA, USA}\thinspace{}\textnormal{:
+  }\bibpublisher{MIT Press}\@, \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{2204–2212}\@.
+
+\bibitem{7472618}
+\bibauthor{{Bahdanau} D\@, {Chorowski} J\@, {Serdyuk} D, et~al}\@.
+  \bibtitle{End-to-end attention-based large vocabulary speech
+  recognition}\bibmark{[C/OL]} //\thinspace{}\bibeditor{ANON}\@.
+  \bibbooktitle{2016 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}\@. \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{4945\thinspace{}\textnormal{--}\thinspace{}4949}\@.
+  \url{http://dx.doi.org/10.1109/ICASSP.2016.7472618}\@.
+
+\bibitem{pmlr-v37-xuc15}
+\bibauthor{XU K\@, BA J\@, KIROS R, et~al}\@. \bibtitle{Show, Attend and Tell:
+  Neural Image Caption Generation with Visual Attention}\bibmark{[C]}
+  //\thinspace{}\bibeditor{BACH F\@, BLEI D}\@. \bibbooktitle{Proceedings of
+  Machine Learning Research\@, Vol~37\thinspace{}\textnormal{: }Proceedings of
+  the 32nd International Conference on Machine Learning}\@. \bibaddress{Lille,
+  France}\thinspace{}\textnormal{: }\bibpublisher{PMLR}\@,
+  \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{2048\thinspace{}\textnormal{--}\thinspace{}2057}\@.
+
+\bibitem{Sagheer-5}
+\bibauthor{SAGHEER A\@, KOTB M}\@. \bibtitle{Time Series Forecasting of
+  Petroleum Production using Deep LSTM Recurrent Networks}\bibmark{[J]}\@,
+  \bibyear{2018}\@.
+
+\bibitem{Ma-2}
+\bibauthor{MA Q\@, TIAN S\@, WEI J, et~al}\@. \bibtitle{Attention-Based
+  Spatio-Temporal Dependence Learning Network}\bibmark{[J]}\@,
+  \bibyear{2019}\@.
+
+\bibitem{Liu-1}
+\bibauthor{{Liu} F\@, {Cai} M\@, {Wang} L, et~al}\@. \bibtitle{An Ensemble
+  Model Based on Adaptive Noise Reducer and Over-Fitting Prevention LSTM for
+  Multivariate Time Series Forecasting}\bibmark{[J/OL]}\@. \bibjournal{IEEE
+  Access}\@, \bibyear{2019}\@, \bibvolume{7}\thinspace{}\textnormal{:
+  }\bibpages{26102\thinspace{}\textnormal{--}\thinspace{}26115}\@.
+  \url{http://dx.doi.org/10.1109/ACCESS.2019.2900371}\@.
+
+\bibitem{Li-3}
+\bibauthor{LI Y\@, ZHU Z\@, KONG D, et~al}\@. \bibtitle{EA-LSTM: Evolutionary
+  Attention-based LSTM for Time Series Prediction}\bibmark{[J]}\@,
+  \bibyear{2018}\@.
+
+\bibitem{Qin-12}
+\bibauthor{QIN Y\@, SONG D\@, CHENG H, et~al}\@. \bibtitle{A Dual-Stage
+  Attention-Based Recurrent Neural Network for Time Series
+  Prediction}\bibmark{[J]}\@, \bibyear{2017}\@.
+
+\bibitem{bff0e6bd8f4a4f0d9735bf1728fb43ef}
+\bibauthor{CHO K\@, {van Merrienboer} B\@, GULCEHRE C, et~al}\@.
+  \bibtitle{Learning phrase representations using RNN encoder-decoder for
+  statistical machine translation}\bibmark{[C]}
+  //\thinspace{}\bibeditor{ANON}\@. \bibbooktitle{Conference on Empirical
+  Methods in Natural Language Processing (EMNLP 2014)}\@. \bibyear{2014}\@.
+
+\bibitem{cho-etal-2014-properties}
+\bibauthor{CHO K\@, van MERRI{\"E}NBOER B\@, BAHDANAU D, et~al}\@. \bibtitle{On
+  the Properties of Neural Machine Translation: Encoder{--}Decoder
+  Approaches}\bibmark{[C]} //\thinspace{}\bibeditor{ANON}\@.
+  \bibbooktitle{Proceedings of {SSST}-8, Eighth Workshop on Syntax, Semantics
+  and Structure in Statistical Translation}\@. \bibaddress{Doha,
+  Qatar}\thinspace{}\textnormal{: }\bibpublisher{Association for Computational
+  Linguistics}\@, \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}111}\@.
+
+\bibitem{Kingma}
+\bibauthor{KINGMA D\@, BA J}\@. \bibtitle{Adam: A Method for Stochastic
+  Optimization}\bibmark{[J]}\@. \bibjournal{International Conference on
+  Learning Representations}\@, \bibyear{2014}\@.
+
+\bibitem{10.5555/65669.104451}
+\bibauthor{RUMELHART D~E\@, HINTON G~E\@, WILLIAMS R~J}\@. \bibtitle{Learning
+  Representations by Back-Propagating Errors}\bibmark{[M]}
+  //\thinspace{}\bibeditor{ANON}\@. \bibbooktitle{Neurocomputing: Foundations
+  of Research}\@. \bibaddress{Cambridge, MA, USA}\thinspace{}\textnormal{:
+  }\bibpublisher{MIT Press}\@, \bibyear{1988}\thinspace{}\textnormal{:
+  }\bibpages{696–699}\@.
+
+\bibitem{Tensorflow}
+\bibauthor{ABADI M\@, AGARWAL A\@, BARHAM P, et~al}\@. \bibtitle{TensorFlow :
+  Large-Scale Machine Learning on Heterogeneous Distributed
+  Systems}\bibmark{[J]}\@, \bibyear{2015}\@.
+
+\bibitem{Nicholas-8}
+\bibauthor{POLSON N~G\@, SOKOLOV V~O}\@. \bibtitle{Deep learning for short-term
+  traffic flow prediction}\bibmark{[J/OL]}\@. \bibjournal{Transportation
+  Research Part C: Emerging Technologies}\@, \bibyear{2017}\@,
+  \bibvolume{79}\thinspace{}\textnormal{: }\bibpages{1
+  \thinspace{}\textnormal{--}\thinspace{} 17}\@.
+  \url{http://dx.doi.org/https://doi.org/10.1016/j.trc.2017.02.024}\@.
+
+\bibitem{Zhu-6}
+\bibauthor{ZHU W\@, LAN C\@, XING J, et~al}\@. \bibtitle{Co-occurrence Feature
+  Learning for Skeleton based Action Recognition using Regularized Deep LSTM
+  Networks}\bibmark{[J]}\@, \bibyear{2016}\@.
+
+\bibitem{Wang-7}
+\bibauthor{WANG P\@, LI Z\@, HOU Y, et~al}\@. \bibtitle{Action Recognition
+  Based on Joint Trajectory Maps Using Convolutional Neural
+  Networks}\bibmark{[C/OL]} //\thinspace{}\bibeditor{ANON}\@. \bibbooktitle{MM
+  ’16\thinspace{}\textnormal{: }Proceedings of the 24th ACM International
+  Conference on Multimedia}\@. \bibaddress{New York, NY,
+  USA}\thinspace{}\textnormal{: }\bibpublisher{Association for Computing
+  Machinery}\@, \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{102–106}\@. \url{http://dx.doi.org/10.1145/2964284.2967191}\@.
+
+\end{thebibliography}

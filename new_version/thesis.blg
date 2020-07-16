@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: body/abstract.aux
+A level-1 auxiliary file: body/chapter1.aux
+A level-1 auxiliary file: body/chapter2.aux
+A level-1 auxiliary file: body/chapter3.aux
+A level-1 auxiliary file: body/chapter4.aux
+A level-1 auxiliary file: body/chapter5.aux
+The style file: gbt7714-2005.bst
+A level-1 auxiliary file: body/appendices.aux
+A level-1 auxiliary file: body/acknowledge.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibfile.bib
+Warning--string name "oct" is undefined
+--line 279 of file bibfile.bib
+Warning--Require citedate: Guo-4
+Warning--Require citedate: 1216141
+Warning--Require editor: Engle1982AutoregressiveCH
+Warning--Require booktitle: Engle1982AutoregressiveCH
+Warning--Require editor: Grachev2017ApplicationOT
+Warning--Require booktitle: Grachev2017ApplicationOT
+Warning--Require journal: Wei
+Warning--Require journal: Wang-11
+Warning--Require editor: Koutn-9
+Warning--Require address: Koutn-9
+Warning--Require citedate: 7508408
+Warning--Require editor: 10.5555/2969033.2969073
+Warning--Require editor: 7472618
+Warning--Require citedate: 7472618
+Warning--Require journal: Sagheer-5
+Warning--Require journal: Ma-2
+Warning--Require citedate: Liu-1
+Warning--Require journal: Li-3
+Warning--Require journal: Qin-12
+Warning--Require editor: bff0e6bd8f4a4f0d9735bf1728fb43ef
+Warning--Require editor: cho-etal-2014-properties
+Warning--Require editor: 10.5555/65669.104451
+Warning--Require journal: Tensorflow
+Warning--Require citedate: Nicholas-8
+Warning--Require journal: Zhu-6
+Warning--Require editor: Wang-7
+Warning--Require citedate: Wang-7
+You've used 28 entries,
+            2975 wiz_defined-function locations,
+            882 strings with 12054 characters,
+and the built_in function-call counts, 52516 in all, are:
+= -- 5814
+> -- 114
+< -- 289
++ -- 4726
+- -- 377
+* -- 1420
+:= -- 6109
+add.period$ -- 0
+call.type$ -- 28
+change.case$ -- 172
+chr.to.int$ -- 0
+cite$ -- 55
+duplicate$ -- 7231
+empty$ -- 1892
+format.name$ -- 344
+if$ -- 14116
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 0
+newline$ -- 110
+num.names$ -- 39
+pop$ -- 625
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 518
+stack$ -- 0
+substring$ -- 6157
+swap$ -- 1228
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 27
+while$ -- 664
+width$ -- 30
+write$ -- 402
+(There were 28 warnings)
